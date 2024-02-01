@@ -1,9 +1,9 @@
 <!-- ABOUT THE PROJECT -->
 # Scripts para agregar marcas de agua a tus imágenes
 
-[![Product Name Screen Shot][product-screenshot]](https://codewithgoz/tutorials/2)
+[![Product Name Screen Shot][product-screenshot]](https://codewithgoz.com/tutorials/2)
 
-<p align="center"><a href="https://codewithgoz/tutorials/2">VER VIDEO</a></p>
+<p align="center"><a href="https://codewithgoz.com/tutorials/2">VER VIDEO</a></p>
 
 En este repositorio encontrarás 4 scripts:
 
